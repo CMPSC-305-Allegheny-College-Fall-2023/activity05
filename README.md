@@ -5,6 +5,7 @@
 ## Due: END OF CLASS
 
 ![bases](./graphics/office.png)
+
 Workers in offices often create databases to contain the contact details of clients, customers and others. Often the data may arrive in files and the database architect will have to find a logical way to combine the names with their companies. This activity invites you take that work a bit further!
 
 ## Project Goals
